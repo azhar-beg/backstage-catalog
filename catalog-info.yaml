@@ -1,7 +1,7 @@
-apiVersion: foobar.backstage.io/v1beta3
-kind: Foobar
+apiVersion: backstage.io/v1alpha1
+kind: Component
 metadata:
-  name: backstage-app
+  name: com
   description: An example of a Backstage application.
   # Example for optional annotations
   # annotations:
